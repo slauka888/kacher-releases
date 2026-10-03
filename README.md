@@ -51,4 +51,4 @@ Get-FileHash .\KacherSetup-2.2.0.exe -Algorithm SHA256
 ## Обращения
 
 Вопросы по оплате, лицензии и претензии правообладателей — через сайт
-[kacher.app](https://kacher.app).
+[kacher.app](https://kacher.vercel.app).
